@@ -15,7 +15,7 @@ Sentiment analysis of the stock market through Twitter involves collecting tweet
 ## Installation
 To set up this project, you will need to install several Python dependencies. Ensure you have Python installed and then run:
 ```
-pip install numpy pandas matplotlib seaborn scikit-learn nltk vaderSentiment yfinance
+pip install numpy pandas matplotlib seaborn scikit-learn nltk vaderSentiment yfinance tensorflow
 ```
 
 ## Usage
@@ -39,6 +39,7 @@ This project relies on the following Python libraries:
 
 - NumPy
 - Pandas
+- TensorFlow
 - Matplotlib
 - Seaborn
 - Scikit-Learn
